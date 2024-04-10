@@ -1,0 +1,7 @@
+{
+  "name": "BOA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
